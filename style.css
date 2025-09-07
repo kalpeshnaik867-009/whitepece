@@ -303,7 +303,7 @@ a{
     
 }
 #customise-text-background{
-     background-image: url(Element.png);
+     background-image: url("Element.png");
     background-size: 160px;
     background-repeat: no-repeat;
     background-position: bottom left;
