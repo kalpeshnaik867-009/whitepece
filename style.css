@@ -236,9 +236,10 @@ a{
 .content-text-button{
     background-color: #4F9CF9;
     color: white;
-    height: 30px;
+    height: 35px;
     border-radius: 3px;
     margin-top: 20px;
+    width: 100px;
 }
 
 .content-two{
@@ -280,6 +281,8 @@ a{
     color: white;
     height: 30px;
     border-radius: 3px;
+     height: 40px;
+     width: 120 px;
     margin-top: 20px;
 }
 #user-extension-background{
@@ -411,4 +414,30 @@ li{
     width: 10px;
     margin-right: 10px;
     display: none;
+}
+.your-work{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   background-color: #043873;
+   
+     background-image: url("BACKGROUND2.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: left  ;
+    
+   
+   
+}
+.work{
+   display: flex;
+    justify-content: center;
+    text-align: center;
+   flex-direction: column;
+    color: aliceblue;
+    width: 900px;
+}
+#your-work-p{
+    font-size: 11px;
 }
